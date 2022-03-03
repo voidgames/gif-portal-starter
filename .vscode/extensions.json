@@ -4,6 +4,8 @@
     "dbaeumer.vscode-eslint",
     "2gua.rainbow-brackets",
     "usernamehw.errorlens",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "dsznajder.es7-react-js-snippets",
+    "coenraads.bracket-pair-colorizer",
   ]
 }
